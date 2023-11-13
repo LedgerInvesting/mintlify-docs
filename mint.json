@@ -74,11 +74,13 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "keys",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/keys/get-keys",
+        "api-reference/keys/post-keys",
+        "api-reference/keys/get-keys-[id]",
+        "api-reference/keys/post-keys-[id]",
+        "api-reference/keys/delete-keys-[id]"
       ]
     }
   ],
