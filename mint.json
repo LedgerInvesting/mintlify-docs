@@ -82,10 +82,10 @@
       ]
     }
   ],
+  "openapi": "https://api.ldgr.app/openapi.json",
   "footerSocials": {
     "twitter": "https://twitter.com/LedgerInvesting",
     "github": "https://github.com/LedgerInvesting",
     "linkedin": "https://www.linkedin.com/company/ledger-investing"
-  },
-  "openapi": "https://api.ldgr.app/openapi.json"
+  }
 }
