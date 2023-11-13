@@ -71,8 +71,7 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
-      ],
-      "openapi": "https://api.ldgr.app/openapi.json"
+      ]
     },
     {
       "group": "Endpoint Examples",
@@ -87,5 +86,6 @@
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  },
+  "openapi": "https://api.ldgr.app/openapi.json"
 }
