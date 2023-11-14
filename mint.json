@@ -84,6 +84,15 @@
       ]
     }
   ],
+  "api": {
+    "baseUrl": "https://api.ldgr.app/api",
+    "auth": {
+      "method": "bearer"
+    },
+    "playground": {
+      "mode": "show"
+    }
+  },
   "openapi": "https://api.ldgr.app/openapi.json",
   "footerSocials": {
     "twitter": "https://twitter.com/LedgerInvesting",
